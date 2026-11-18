@@ -1,0 +1,20 @@
+[
+ {
+  "key": "tafsir",
+  "name": "التفسير الميسر",
+  "src": "https://quranpedia.net",
+  "v": "2026-08-10"
+ },
+ {
+  "key": "irab-daas",
+  "name": "إعراب القرآن — الدعاس",
+  "src": "https://quranpedia.net",
+  "v": "2026-08-10"
+ },
+ {
+  "key": "irab-nahhas",
+  "name": "إعراب القرآن — النحاس",
+  "src": "https://quranpedia.net",
+  "v": "2026-08-10"
+ }
+]

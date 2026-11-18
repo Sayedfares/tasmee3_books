@@ -1,0 +1,230 @@
+[
+ {
+  "key": "abridged-explanation-of-the-quran",
+  "name": "المختصر في تفسير القرآن الكريم (مركز تفسير)",
+  "group": "tafsir",
+  "mb": 1.9
+ },
+ {
+  "key": "abu-bakr-jabir-al-jazairi",
+  "name": "أيسر التفاسير — أبو بكر الجزائري",
+  "group": "tafsir",
+  "mb": 7.5
+ },
+ {
+  "key": "al-bahr-al-muhit",
+  "name": "البحر المحيط — أبو حيان",
+  "group": "tafsir",
+  "mb": 33.2
+ },
+ {
+  "key": "al-basit",
+  "name": "التفسير البسيط — الواحدي",
+  "group": "tafsir",
+  "mb": 30.7
+ },
+ {
+  "key": "al-i-rab-al-muyassar",
+  "name": "الإعراب الميسر",
+  "group": "irab",
+  "mb": 9.8
+ },
+ {
+  "key": "al-jadwal-fi-i-rab-al-quran",
+  "name": "الجدول في إعراب القرآن — محمود صافي",
+  "group": "irab",
+  "mb": 12.0
+ },
+ {
+  "key": "al-kashshaf-al-zamakhshari",
+  "name": "الكشاف — الزمخشري",
+  "group": "tafsir",
+  "mb": 10.7
+ },
+ {
+  "key": "al-lubab-fi-ulum-al-kitab",
+  "name": "اللباب في علوم الكتاب — ابن عادل",
+  "group": "tafsir",
+  "mb": 34.0
+ },
+ {
+  "key": "al-muharrar-al-wajiz-ibn-atiyyah",
+  "name": "المحرر الوجيز — ابن عطية",
+  "group": "tafsir",
+  "mb": 17.9
+ },
+ {
+  "key": "ar-tafseer-al-qurtubi",
+  "name": "تفسير القرطبي",
+  "group": "tafsir",
+  "mb": 32.8
+ },
+ {
+  "key": "ar-tafseer-al-saddi",
+  "name": "تفسير السعدي",
+  "group": "tafsir",
+  "mb": 7.0
+ },
+ {
+  "key": "ar-tafseer-tahrir-al-tanwir",
+  "name": "التحرير والتنوير — ابن عاشور",
+  "group": "tafsir",
+  "mb": 48.6
+ },
+ {
+  "key": "ar-tafsir-al-baghawi",
+  "name": "تفسير البغوي",
+  "group": "tafsir",
+  "mb": 15.4
+ },
+ {
+  "key": "ar-tafsir-al-tabari",
+  "name": "تفسير الطبري",
+  "group": "tafsir",
+  "mb": 39.3
+ },
+ {
+  "key": "ar-tafsir-al-wasit",
+  "name": "التفسير الوسيط — طنطاوي",
+  "group": "tafsir",
+  "mb": 17.7
+ },
+ {
+  "key": "ar-tafsir-muyassar",
+  "name": "التفسير الميسر (كامل)",
+  "group": "tafsir",
+  "mb": 2.4
+ },
+ {
+  "key": "arabic-al-mukhtasar-in-interpreting-the-noble-quran",
+  "name": "المختصر في تفسير القرآن الكريم",
+  "group": "tafsir",
+  "mb": 2.0
+ },
+ {
+  "key": "asseraj-fi-bayan-gharib-alquran",
+  "name": "السراج في بيان غريب القرآن",
+  "group": "tafsir",
+  "mb": 7.4
+ },
+ {
+  "key": "fath-al-qadir-al-shawkani",
+  "name": "فتح القدير — الشوكاني",
+  "group": "tafsir",
+  "mb": 21.8
+ },
+ {
+  "key": "i-rab-al-quran-li-al-darwish",
+  "name": "إعراب القرآن وبيانه — الدرويش",
+  "group": "irab",
+  "mb": 11.7
+ },
+ {
+  "key": "tadabbur-wa-amal",
+  "name": "تدبر وعمل",
+  "group": "tafsir",
+  "mb": 5.9
+ },
+ {
+  "key": "tafsir-al-mawardi",
+  "name": "تفسير الماوردي",
+  "group": "tafsir",
+  "mb": 7.8
+ },
+ {
+  "key": "tafsir-al-nasafi",
+  "name": "تفسير النسفي",
+  "group": "tafsir",
+  "mb": 8.6
+ },
+ {
+  "key": "tafsir-ibn-abi-zamanin",
+  "name": "تفسير ابن أبي زمنين",
+  "group": "tafsir",
+  "mb": 3.8
+ },
+ {
+  "key": "tafsir-ibn-al-qayyim",
+  "name": "تفسير ابن القيم",
+  "group": "tafsir",
+  "mb": 19.6
+ },
+ {
+  "key": "tafsir-ibn-uthaymeen",
+  "name": "تفسير ابن عثيمين",
+  "group": "tafsir",
+  "mb": 44.0
+ },
+ {
+  "key": "tafsir-jalalayn",
+  "name": "تفسير الجلالين",
+  "group": "tafsir",
+  "mb": 3.8
+ },
+ {
+  "key": "mawsoo-at-al-tafsir-al-ma-thoor",
+  "name": "موسوعة التفسير المأثور",
+  "group": "tafsir",
+  "mb": 66.6
+ },
+ {
+  "key": "tahlil-kalimat-al-qur-an",
+  "name": "تحليل كلمات القرآن",
+  "group": "irab",
+  "mb": 17.8
+ },
+ {
+  "key": "islamhouse-com-simple",
+  "name": "ترجمة فارسية (إسلام هاوس)",
+  "group": "trans",
+  "mb": 1.7
+ },
+ {
+  "key": "montada-islamic-foundation-with-footnote-tags",
+  "name": "ترجمة فرنسية (منتدى المؤسسة الإسلامية)",
+  "group": "trans",
+  "mb": 1.2
+ },
+ {
+  "key": "ru-tafsir-ibne-kahtir",
+  "name": "تفسير ابن كثير — ترجمة روسية",
+  "group": "trans",
+  "mb": 21.9
+ },
+ {
+  "key": "russian-mokhtasar",
+  "name": "المختصر — ترجمة روسية",
+  "group": "trans",
+  "mb": 3.1
+ },
+ {
+  "key": "japanese-mokhtasar",
+  "name": "المختصر — ترجمة يابانية",
+  "group": "trans",
+  "mb": 2.1
+ },
+ {
+  "key": "sinhalese-mokhtasar",
+  "name": "المختصر — ترجمة سنهالية",
+  "group": "trans",
+  "mb": 4.9
+ },
+ {
+  "key": "sq-saadi",
+  "name": "تفسير السعدي — ترجمة ألبانية",
+  "group": "trans",
+  "mb": 8.5
+ },
+ {
+  "key": "suliman-kanti-simple",
+  "name": "ترجمة بالإنكو (سليمان كانتي)",
+  "group": "trans",
+  "mb": 1.8
+ },
+ {
+  "key": "bayanul-furqan-koshur-quran-simple",
+  "name": "ترجمة كشميرية (بيان الفرقان)",
+  "group": "trans",
+  "mb": 3.0
+ }
+]
